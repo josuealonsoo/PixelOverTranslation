@@ -7481,7 +7481,7 @@
               "checked": true
             },
             "es": {
-              "value": "Tampón normal",
+              "value": "Mapeado normal",
               "checked": false
             },
             "zh": {
@@ -7499,7 +7499,7 @@
               "checked": true
             },
             "es": {
-              "value": "Tampón de profundidad",
+              "value": "Mapa de profundidad",
               "checked": false
             },
             "zh": {
