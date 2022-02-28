@@ -289,7 +289,7 @@
               "checked": true
             },
             "es": {
-              "value": "Guardar proyecto como... A la versión anterior del archivo pixelOver.",
+              "value": "Guardar proyecto como... A la versión anterior del archivo PixelOver.",
               "checked": false
             },
             "zh": {
@@ -830,7 +830,7 @@
             "checked": true
           },
           "es": {
-            "value": "Aplique",
+            "value": "Aplicar",
             "checked": false
           },
           "zh": {
@@ -5782,7 +5782,7 @@
                 "checked": true
               },
               "es": {
-                "value": "En",
+                "value": "Entrada",
                 "checked": false
               },
               "zh": {
@@ -5800,7 +5800,7 @@
                 "checked": true
               },
               "es": {
-                "value": "Fuera",
+                "value": "Salida",
                 "checked": false
               },
               "zh": {
@@ -8293,7 +8293,7 @@
               "checked": true
             },
             "es": {
-              "value": "Deforme",
+              "value": "Deformar",
               "checked": false
             },
             "zh": {
@@ -9202,7 +9202,7 @@
             "checked": true
           },
           "es": {
-            "value": "Animation",
+            "value": "Animación",
             "checked": false
           },
           "zh": {
@@ -9637,7 +9637,7 @@
               "checked": true
             },
             "es": {
-              "value": "Archivos de la gota",
+              "value": "Arrastra y suelta el archivo",
               "checked": false
             },
             "zh": {
@@ -9673,7 +9673,7 @@
               "checked": true
             },
             "es": {
-              "value": "Todas las células",
+              "value": "Todas las celdas",
               "checked": false
             },
             "zh": {
@@ -9727,7 +9727,7 @@
               "checked": true
             },
             "es": {
-              "value": " Células",
+              "value": "Celdas",
               "checked": false
             },
             "zh": {
@@ -9763,7 +9763,7 @@
               "checked": false
             },
             "es": {
-              "value": "Hoja de Sprite Importación",
+              "value": "Importar hojas de sprite",
               "checked": false
             },
             "zh": {
@@ -9781,7 +9781,7 @@
               "checked": true
             },
             "es": {
-              "value": "Células",
+              "value": "Celdas",
               "checked": false
             },
             "zh": {
@@ -9982,7 +9982,7 @@
             "checked": true
           },
           "es": {
-            "value": "No ahorres",
+            "value": "No guardar",
             "checked": false
           },
           "zh": {
@@ -10108,7 +10108,7 @@
             "checked": true
           },
           "es": {
-            "value": "El proyecto no se salva.",
+            "value": "El proyecto no esta guardado.",
             "checked": false
           },
           "zh": {
@@ -10144,7 +10144,7 @@
             "checked": true
           },
           "es": {
-            "value": "Algunos proyectos no se guardan, pero se deja la aplicación de todos modos?",
+            "value": "Algún proyecto no esta guardado. ¿Estas seguro de cerrar el editor de todos modos?",
             "checked": false
           },
           "zh": {
@@ -10216,7 +10216,7 @@
             "checked": true
           },
           "es": {
-            "value": "Se estrelló",
+            "value": "Crashed",
             "checked": false
           },
           "zh": {
@@ -10288,7 +10288,7 @@
             "checked": true
           },
           "es": {
-            "value": "El proyecto no se carga. El archivo del proyecto no es accesible o está dañado.",
+            "value": "El proyecto no carga. El archivo del proyecto no es accesible o está dañado.",
             "checked": false
           },
           "zh": {
