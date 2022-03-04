@@ -868,7 +868,7 @@
             "checked": true
           },
           "es": {
-            "value": "Noticias",
+            "value": "Noticias de PixelOver",
             "checked": true
           },
           "zh": {
@@ -6129,7 +6129,7 @@
               },
               "es": {
                 "value": "Tono",
-                "checked": true 
+                "checked": true
               },
               "zh": {
                 "value": "色调",
