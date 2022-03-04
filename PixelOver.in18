@@ -868,7 +868,7 @@
             "checked": true
           },
           "es": {
-            "value": "Noticias de actualidad.",
+            "value": "Noticias",
             "checked": true
           },
           "zh": {
@@ -1141,7 +1141,7 @@
               "checked": true
             },
             "es": {
-              "value": "Idioma de la aplicación.",
+              "value": "Idioma del editor.",
               "checked": false
             },
             "zh": {
@@ -1359,7 +1359,7 @@
               "checked": true
             },
             "es": {
-              "value": "Aplicación",
+              "value": "Editor",
               "checked": false
             },
             "zh": {
@@ -1849,8 +1849,8 @@
               "checked": true
             },
             "es": {
-              "value": "Juega",
-              "checked": false
+              "value": "Iniciar",
+              "checked": true
             },
             "zh": {
               "value": "播放",
@@ -2282,8 +2282,8 @@
             "checked": true
           },
           "es": {
-            "value": "Activo",
-            "checked": false
+            "value": "Recurso",
+            "checked": true
           },
           "zh": {
             "value": "资源",
@@ -4517,8 +4517,8 @@
               "checked": true
             },
             "es": {
-              "value": "Activar el efecto de onda.",
-              "checked": false
+              "value": "Activar el efecto de agua.",
+              "checked": true
             },
             "zh": {
               "value": "启用波浪效果。",
@@ -4625,8 +4625,8 @@
               "checked": true
             },
             "es": {
-              "value": "Activar el efecto de onda de choque.",
-              "checked": false
+              "value": "Activar el efecto de ondas.",
+              "checked": true
             },
             "zh": {
               "value": "启用冲击波效果。",
@@ -5003,8 +5003,8 @@
               "checked": true
             },
             "es": {
-              "value": "Activar el efecto rastro.",
-              "checked": false
+              "value": "Activar el efecto trail.",
+              "checked": true
             },
             "zh": {
               "value": "启用跟踪效果。",
@@ -6128,8 +6128,8 @@
                 "checked": true
               },
               "es": {
-                "value": "Hue",
-                "checked": false
+                "value": "Tono",
+                "checked": true 
               },
               "zh": {
                 "value": "色调",
@@ -6219,7 +6219,7 @@
               },
               "es": {
                 "value": "Indexado",
-                "checked": false
+                "checked": true
               },
               "zh": {
                 "value": "索引",
@@ -6579,7 +6579,7 @@
               "checked": true
             },
             "es": {
-              "value": "Esquema",
+              "value": "Contorno",
               "checked": false
             },
             "zh": {
@@ -6633,7 +6633,7 @@
               "checked": true
             },
             "es": {
-              "value": "En línea",
+              "value": "Contorno interno",
               "checked": false
             },
             "zh": {
@@ -8077,8 +8077,8 @@
               "checked": true
             },
             "es": {
-              "value": "Indexación de partidos",
-              "checked": false
+              "value": "Correspondencia de indexación",
+              "checked": true
             },
             "zh": {
               "value": "匹配指数化",
@@ -8167,8 +8167,8 @@
               "checked": true
             },
             "es": {
-              "value": "Modo mosaico",
-              "checked": false
+              "value": "Modo Tiled",
+              "checked": true
             },
             "zh": {
               "value": "瓷砖模式",
@@ -8311,8 +8311,8 @@
               "checked": true
             },
             "es": {
-              "value": "Camino",
-              "checked": false
+              "value": "Trail",
+              "checked": true
             },
             "zh": {
               "value": "路径",
@@ -8967,7 +8967,7 @@
               "checked": true
             },
             "es": {
-              "value": "Herramienta seleccionar",
+              "value": "Herramienta de seleccionar",
               "checked": true
             },
             "zh": {
@@ -8985,7 +8985,7 @@
               "checked": true
             },
             "es": {
-              "value": "Herramienta mano",
+              "value": "Herramienta de mano",
               "checked": true
             },
             "zh": {
@@ -9003,7 +9003,7 @@
               "checked": true
             },
             "es": {
-              "value": "Herramienta transformar",
+              "value": "Herramienta de transformar",
               "checked": true
             },
             "zh": {
@@ -9021,7 +9021,7 @@
               "checked": true
             },
             "es": {
-              "value": "Herramienta deformar",
+              "value": "Herramienta de deformar",
               "checked": true
             },
             "zh": {
@@ -9039,7 +9039,7 @@
               "checked": true
             },
             "es": {
-              "value": "Herramienta crear formas",
+              "value": "Herramienta de crear formas",
               "checked": true
             },
             "zh": {
@@ -9057,7 +9057,7 @@
               "checked": true
             },
             "es": {
-              "value": "Herramienta crear formas 3D",
+              "value": "Herramienta de crear formas 3D",
               "checked": true
             },
             "zh": {
@@ -9075,7 +9075,7 @@
               "checked": true
             },
             "es": {
-              "value": "Herramienta crear contenedor 3D",
+              "value": "Herramienta de crear contenedor 3D",
               "checked": true
             },
             "zh": {
@@ -9093,7 +9093,7 @@
               "checked": true
             },
             "es": {
-              "value": "Herramienta crear hueso",
+              "value": "Herramienta de crear hueso",
               "checked": true
             },
             "zh": {
@@ -9111,7 +9111,7 @@
               "checked": true
             },
             "es": {
-              "value": "Herramienta selector de colores de la paleta",
+              "value": "Herramienta de selector de colores de la paleta",
               "checked": true
             },
             "zh": {
@@ -9129,7 +9129,7 @@
               "checked": true
             },
             "es": {
-              "value": "Herramienta establecer padre",
+              "value": "Herramienta de  establecer padre",
               "checked": true
             },
             "zh": {
@@ -9147,7 +9147,7 @@
               "checked": true
             },
             "es": {
-              "value": "Herramienta mano (Mantener)",
+              "value": "Herramienta de  mano (Mantener)",
               "checked": true
             },
             "zh": {
@@ -9165,7 +9165,7 @@
               "checked": true
             },
             "es": {
-              "value": "Herramienta padre",
+              "value": "Herramienta de padre",
               "checked": true
             },
             "zh": {
@@ -9183,7 +9183,7 @@
               "checked": true
             },
             "es": {
-              "value": "Herramienta selector de colores de la paleta (Mantener)",
+              "value": "Herramienta de selector de colores de la paleta (Mantener)",
               "checked": true
             },
             "zh": {
@@ -10018,7 +10018,7 @@
             "checked": true
           },
           "es": {
-            "value": "Cerrar la aplicación",
+            "value": "Cerrar el editor",
             "checked": true
           },
           "zh": {
